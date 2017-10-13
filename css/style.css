@@ -1,3 +1,11 @@
-img {
+.sidebar {
+  float: left;
+  width: 30%auto;
+  float: right;
+  background-color: red;
+}
+
+.column {
+  width: 300px;
   float: right;
 }
